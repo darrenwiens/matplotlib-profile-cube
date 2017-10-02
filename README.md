@@ -1,1 +1,1 @@
-# matploylib-profile-cube
+# matplotlib-profile-cube
